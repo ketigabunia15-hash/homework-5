@@ -15,7 +15,7 @@
 <body>
  
   <header>
-  <div class="logo">
+  <div>
     <img src="images/1.png" alt="მთავარი ფოტო">
   </div>
   <nav>
