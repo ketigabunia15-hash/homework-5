@@ -6,9 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>homework 5</title>
   <style>
-    body {
+    <body> {
       background-color: orange; 
     }
+    </body>
   </style>
 </head>
 <body>
